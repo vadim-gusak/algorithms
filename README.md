@@ -7,3 +7,4 @@
 Различные алгоритмы написаные мной на Python.
 
  - [Бинарный поиск](https://github.com/vadim-gusak/algorithms/blob/main/algorithms/binary_search.py), [его тесты](https://github.com/vadim-gusak/algorithms/blob/main/tests/test_binary_search.py)
+ - [Сортировка выбором](https://github.com/vadim-gusak/algorithms/blob/main/algorithms/select_sort.py), [тесты](https://github.com/vadim-gusak/algorithms/blob/main/tests/test_select_sort.py)
